@@ -75,4 +75,4 @@ clearButton.addEventListener('click', function(){
     output.classList.add('h2_visible');
 });
 
-const iterator = new Iterator(value);
+const iterator = new Iterator(+value);
